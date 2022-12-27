@@ -3,8 +3,12 @@ This is my repistory for my resume. Its still under development but the reposito
 
 TL;DR this repistory will act as a hub for all of my smaller, bite-sized projects. Projects that solely aim to showcase a mastery on a very, very specific topic
 
+(Note - 11/20/22) Moved projects away from other Github (I would rather not disclose the reason for such)
+
 (Note - 11/21/22) past projects may be updated frequentley. In other words, they may be removed, added or moved to a new repistory for mostly organization-sake. Anything I see fit really. The date that reads on the repistory may or may not be accurate to the original date of publishing of said projects so please keep that in note.
 
 (Note - 12/1/22) For the most part, I will not be handing out the source file for these micro-projects since they aren't really worth the effort and also for maximum convience; I will have the code on a github file instead so its easy to see at anytime. Keep in mind, they are exception to the rule. Some projects like my recurison project will come in a pycharm file simply because the UTC-8 text file is too big.
 
 (Note - 12/23/22) Under recent highlight of events, I've decided that I will be privating this repiostery as its caused some confusion and conflict with my university. If allowed by my university, I will make it public again possibley.
+
+(Note - 12/26/22) Reorganized everything. Each project can be found with its own branch.
